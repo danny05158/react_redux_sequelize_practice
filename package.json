@@ -1,5 +1,5 @@
 {
-  "name": "senior-enrichment",
+  "name": "react-practice",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "redux": "^4.0.0",
     "redux-logger": "^3.0.6",
     "redux-thunk": "^2.2.0",
-    "sequelize": "^4.37.8"
+    "sequelize": "^4.44.3"
   },
   "devDependencies": {
     "babel-core": "^6.26.3",
