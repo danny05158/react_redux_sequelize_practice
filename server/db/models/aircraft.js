@@ -5,7 +5,7 @@ const Sequelize = require('sequelize');
 //destructure DB
 const {db} = require('../_db');
 
-
+// Define Aircraft Schema
 const Aircraft = db.define('aircraft', {
   make: {
     type: Sequelize.STRING,
